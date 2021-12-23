@@ -1,7 +1,7 @@
 export default {
     port:5000,
     dbUri: "mongodb://localhost:27017/rest-typescript",
-    saltWorkFactor: 10,
+    saltWorkFactor:10,
     publicKey:`-----BEGIN PUBLIC KEY-----
     MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApl9FLYsLnP10T98mT70e
     qdAeHA8qDU5rmY8YFFlcOcy2q1dijpgfop8WyHu1ULufJJXm0PV20/J9BD2HqTAK
@@ -38,10 +38,10 @@ export default {
     bNDYOkFMzHTOeTUwbuEbCO5CEAj4psfcorTQijMVy3gSDJUuf+gKMzVubzzmfQkV
     syUSjC+swH6T0SiEFYlU1FTqTGKsOM68huorD/HEX64Bt9mMBFiVyA==
     -----END RSA PRIVATE KEY-----`,
-    accessTokenTtl: "15m",
-    refreshTokenTtl: "1y",
-    accessTokenPrivateKey: `hjagfhjasgfhjgasfkj`,
-    accessTokenPublicKey: `iweutyueiwtyuewo`,
-    refreshTokenPrivateKey: `mxvzmnvmvzxm`,
-    refreshTokenPublicKey: `bucdwbhuchuwvb`,
+    accessTokenTtl:"15m",
+    refreshTokenTtl:"1y",
+    accessTokenPrivateKey: `asgashashah`,
+    accessTokenPublicKey: `adhadjfjdf`,
+    refreshTokenPrivateKey: `fjdkfgkfgk`,
+    refreshTokenPublicKey: `gktdjuejdfj`,
 }
